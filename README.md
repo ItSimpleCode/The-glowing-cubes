@@ -1,8 +1,6 @@
 # Glowning Cubes ( HTML / CSS / JS )
 #### by me => Youssef ElQayedy يوسف القائدي
-if you work with css so delete 'scss' folder and use it.
-if you work with scss so delete 'css' folder and use it.
-it is up to you.
+use css file or scss file, it sames thing.
 #
 if you want my services:
 - gmail: elqayedycontact@gmail.com
